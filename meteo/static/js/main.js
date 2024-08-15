@@ -26,7 +26,8 @@ function init() {
   const geometry = new THREE.SphereGeometry(300, 30, 30);
   // マテリアルを作成
   const material = new THREE.MeshStandardMaterial({
-    map: new THREE.TextureLoader().load("static/media/earth_map1k.png"),
+    // map: new THREE.TextureLoader().load("static/media/earth_map1k.png"),
+    color: 0x6699ff,
     side: THREE.DoubleSide,
   });
   // 地球メッシュを作成
