@@ -1,0 +1,20 @@
+【目的】
+実務で使用されるツールを用いてDjangoアプリを作成してサーバーへデプロイする
+［言語］
+ Python 3.12.5
+ Javascripy ES6
+ HTML
+ CSS3
+［フレームワーク］
+ Django 5.1
+[API]
+ Weather Forecast API
+[CDN]
+ Bootstrap
+ Three.js
+[ツール］
+ PyCharm 2024.1.6
+ Docker 4.33.0
+ anaconda3
+[サーバー］
+AWS EC2 RDS
